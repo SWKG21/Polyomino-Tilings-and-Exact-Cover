@@ -1,7 +1,9 @@
 # Polyomino-Tilings-and-Exact-Cover
 
 This is the project of course "Conception and analyse of algorithms" at École Polytechnique.
+
 It is realized in Java by Wang SUN and Julien LÂASRI.
+
 
 Main steps:
 
@@ -10,6 +12,7 @@ Main steps:
 • Create data structure using the dancing-link algorithm.
 
 • Exactly cover areas of specific shapes and sizes using polyominoes with specific conditions.
+
 
 Files:
 
