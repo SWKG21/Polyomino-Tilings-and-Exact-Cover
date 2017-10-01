@@ -1,6 +1,6 @@
 # Polyomino-Tilings-and-Exact-Cover
 
-This is the project of course "Conception and analyse of algorithms" at École Polytechnique.
+This is a project of course "Conception and analyse of algorithms" at École Polytechnique.
 
 It is realized in Java by Wang SUN and Julien LÂASRI.
 
