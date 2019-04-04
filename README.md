@@ -1,4 +1,4 @@
-# Polyomino-Tilings-and-Exact-Cover
+# Polyomino Tilings and Exact Cover
 
 This is a project of course "Conception and analyse of algorithms" at École Polytechnique.
 
@@ -7,20 +7,20 @@ It is realized in Java by Wang SUN.
 
 Main steps:
 
-• Generate all polyominoes of specific sizes.
+    • Generate all polyominoes of specific sizes.
 
-• Create data structure using the dancing-link algorithm.
+    • Create data structure using the dancing-link algorithm.
 
-• Exactly cover areas of specific shapes and sizes using polyominoes with specific conditions.
+    • Exactly cover areas of specific shapes and sizes using polyominoes with specific conditions.
 
 
 Files:
 
-• result/ contains some results in .png format.
+• `result/` contains some results in .png format.
 
-• src/ contains all source code.
+• `src/` contains all source code.
 
-• PolyominoINF421.txt contains the explanation of all important functions is in the file.
+• `PolyominoINF421.txt` contains the explanation of all important functions is in the file.
 
-• report.pdf is the final report of this project.
+• `report.pdf` is the final report of this project.
 
